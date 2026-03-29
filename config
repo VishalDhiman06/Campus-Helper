@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/VishalDhiman06/Campus-Helper.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "sahil"]
+	url = https://github.com/Sahilshah12/CampusHelper2.git
+	fetch = +refs/heads/*:refs/remotes/sahil/*
